@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "node": {
+    "supportPolicy": ["lts_active", "current"],
+    "enabled": true
+  }
+}
