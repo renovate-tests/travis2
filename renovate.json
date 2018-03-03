@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "prHourlyLimit": 0,
   "node": {
     "supportPolicy": ["lts_active", "current"],
     "enabled": true
