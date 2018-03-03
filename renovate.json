@@ -3,7 +3,7 @@
     "config:base"
   ],
   "node": {
-    "policy": ["lts_active", "current"],
+    "supporPolicy": ["lts_active", "current"],
     "enabled": true
   }
 }
