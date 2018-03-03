@@ -5,6 +5,8 @@
   "prHourlyLimit": 0,
   "node": {
     "supportPolicy": ["lts_active", "current"],
+  },
+  "travis": {
     "enabled": true
   }
 }
